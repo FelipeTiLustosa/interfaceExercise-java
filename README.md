@@ -1,4 +1,4 @@
-# Exercício usando interface em java
+# Exercise using Java interface
 ## Exercise description:
 A company wants to automate the processing of its contracts. Processing a contract consists of generating the installments to be paid for that contract, based on the desired number of months.
 The company uses an online payment service to pay installments. Online payment services typically charge a monthly interest, as well as a payment fee. For now, the service contracted by the company is Paypal, which applies simple interest of 1% to each installment, plus a payment fee of 2%.
